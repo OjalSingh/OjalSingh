@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hey, I'm Ojal 👋
 
-<!--
-**OjalSingh/OjalSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Turning curiosity into code.
 
-Here are some ideas to get you started:
+Computer Science Student turning curiosity into code through Java, AI applications, and software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+Most of my projects start with a simple question:
+
+> "How does this actually work behind the scenes?"
+
+Whether it's AI agents, Java applications, automation tools, or web systems, I enjoy breaking things down, understanding them, and rebuilding them through code.
+
+---
+
+## 🎯 Current Focus
+
+* Data Structures & Algorithms
+* Java Development
+* Full-Stack Development
+* AI-powered Applications
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 Customer Refund AI Agent
+
+An AI-powered workflow for automating customer refund processes.
+[Repository](https://github.com/OjalSingh/Customer-Refund-AI-Agent)
+
+### 📄 RoboBill
+
+Bill summarization and extraction using Gemini API.
+[Repository](https://github.com/OjalSingh/RoboBill-using-Gemini-API)
+
+### ☕ Java Journey
+
+Documenting my learning and implementations in Java.
+[Repository](https://github.com/OjalSingh/java-journey)
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Java
+* DSA
+* Databases
+* System Design
+
+---
+
+## 🌱 Philosophy
+
+Built from curiosity. Improved through code.
