@@ -37,6 +37,11 @@ An AI-powered workflow for automating customer refund processes.
 Bill summarization and extraction using Gemini API.
 [Repository](https://github.com/OjalSingh/RoboBill-using-Gemini-API)
 
+### 🌊 floodvision
+
+Binary semantic flood segmentation in aerial imagery using U-Net.
+[Repository](https://github.com/OjalSingh/floodvision)
+
 ### ☕ Java Journey
 
 Documenting my learning and implementations in Java.
