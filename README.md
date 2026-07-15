@@ -2,7 +2,7 @@
 
 ### Turning curiosity into code.
 
-Computer Science Student turning curiosity into code through Java, AI applications, and software projects.
+Computer Science student exploring Java, AI applications, and full-stack development—building projects to understand how things work.
 
 ---
 
