@@ -42,19 +42,13 @@ Bill summarization and extraction using Gemini API.
 Binary semantic flood segmentation in aerial imagery using U-Net.
 [Repository](https://github.com/OjalSingh/floodvision)
 
-### ☕ Java Journey
-
-Documenting my learning and implementations in Java.
-[Repository](https://github.com/OjalSingh/java-journey)
-
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
-* Advanced Java
-* DSA
-* Databases
-* System Design
+- Backend Engineering
+- AI Agents & Workflow Automation
+- Software Design & Architecture
 
 ---
 
